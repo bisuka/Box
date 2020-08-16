@@ -1,0 +1,85 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	color: gray;
+}
+div {
+	width: 960px;
+	margin: 50px auto;
+	/*background-color: orange;*/
+}
+.list p {
+	padding:20px;
+}
+.list p:nth-child(odd){
+	background-color: yellow;
+}
+.list2 {
+	height: 500px;
+	margin:50px 0;
+	/*background-color: green;*/
+}
+.list2 .box1{
+	width: 30%;
+	height: 200px;
+	margin: 0 5% 40px 0;
+	background-color: orange;
+	float: left;
+}
+.list2 .box2{
+	width: 30%;
+	height: 200px;
+	margin: 0 5% 40px 0;
+	background-color: yellow;
+	float: left;
+}
+.list2 .box3{
+	width: 30%;
+	height: 200px;
+	margin: 0 0 40px 0;
+	background-color: yellow;
+	float: left;
+}
+.list2 .box4{
+	width: 30%;
+	height: 200px;
+	margin: 0 5% 40px 0;
+	background-color: yellow;
+	float: left;
+}
+.list2 .box5{
+	width: 30%;
+	height: 200px;
+	margin: 0 5% 40px 0;
+	background-color: orange;
+	float: left;
+}
+.list2 .box6{
+	width: 30%;
+	height: 200px;
+	margin: 0 0 40px 0;
+	background-color: yellow;
+	float: left;
+}
+.list2 .box7{
+	width: 30%;
+	height: 200px;
+	margin: 0 5% 40px 0;
+	background-color: yellow;
+	float: left;
+}
+.list2 .box8{
+	width: 30%;
+	height: 200px;
+	margin: 0 5% 40px 0;
+	background-color: yellow;
+	float: left;
+}
+.list2 .box9{
+	width: 30%;
+	height: 200px;
+	margin: 0 0 40px 0;
+	background-color: orange;
+	float: left;
+}

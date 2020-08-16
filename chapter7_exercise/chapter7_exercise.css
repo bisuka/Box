@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: black;
+}
+
+.main-visual {
+	background-image: url(img/mv.jpg);
+	height: 400px;
+	background-position: bottom;
+}
+h1 {
+	color: gray;
+	padding: 20px;
+}
+.blog {
+	width: 840px;
+	height: 100%;
+	/*background-color: gray;*/
+	margin:50px auto;
+}
+.blog-item {
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid gray;
+}
